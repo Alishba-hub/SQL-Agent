@@ -177,10 +177,3 @@ system.show_results(results, metadata)
 ```
 
 ---
-
-## Future Improvements
-- Expand sample dataset for better testing coverage
-- Add fuzzy string matching for industry categories  
-- Implement synonym handling for common business terms
-- Add support for date ranges and temporal queries
-- Integrate semantic similarity for description matching
