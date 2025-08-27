@@ -161,19 +161,5 @@ LIMIT 32;
 
 ---
 
-## Usage
-
-```python
-from natural_language_sql import NaturalLanguageToSQL
-
-# Initialize the system
-system = NaturalLanguageToSQL()
-
-# Search with natural language
-results, metadata = system.search("Find tech startups in California")
-
-# Display results
-system.show_results(results, metadata)
-```
 
 ---
